@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Kunal Launcher",
+    "description": "quick launch Media",
+    "version": "1.0.0",
+    "icons": {
+        "128": "initial-letter-k-logo-template-260nw-1825835006.png"
+    },
+    "browser_action": {
+        "default_icon": "initial-letter-k-logo-template-260nw-1825835006.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
